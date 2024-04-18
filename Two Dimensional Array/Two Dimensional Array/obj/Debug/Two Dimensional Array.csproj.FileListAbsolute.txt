@@ -1,0 +1,7 @@
+C:\Users\shara\source\repos\Two Dimensional Array\Two Dimensional Array\bin\Debug\Two Dimensional Array.exe.config
+C:\Users\shara\source\repos\Two Dimensional Array\Two Dimensional Array\bin\Debug\Two Dimensional Array.exe
+C:\Users\shara\source\repos\Two Dimensional Array\Two Dimensional Array\bin\Debug\Two Dimensional Array.pdb
+C:\Users\shara\source\repos\Two Dimensional Array\Two Dimensional Array\obj\Debug\Two Dimensional Array.csproj.AssemblyReference.cache
+C:\Users\shara\source\repos\Two Dimensional Array\Two Dimensional Array\obj\Debug\Two Dimensional Array.csproj.CoreCompileInputs.cache
+C:\Users\shara\source\repos\Two Dimensional Array\Two Dimensional Array\obj\Debug\Two Dimensional Array.exe
+C:\Users\shara\source\repos\Two Dimensional Array\Two Dimensional Array\obj\Debug\Two Dimensional Array.pdb

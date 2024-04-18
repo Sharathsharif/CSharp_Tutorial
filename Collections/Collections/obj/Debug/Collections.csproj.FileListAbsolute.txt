@@ -1,0 +1,7 @@
+C:\Users\shara\source\repos\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\shara\source\repos\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\shara\source\repos\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\shara\source\repos\Collections\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\shara\source\repos\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\shara\source\repos\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\shara\source\repos\Collections\Collections\obj\Debug\Collections.pdb
